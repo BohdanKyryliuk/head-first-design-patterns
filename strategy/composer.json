@@ -1,0 +1,19 @@
+{
+    "name": "bkyryliuk/strategy",
+    "description": "Strategy Design Pattern",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SimUDuck\\": "src/SimUDuck",
+            "Diablo\\": "src/Diablo"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bohdan Kyryliuk",
+            "email": "bkyryliuk@codifire.com"
+        }
+    ],
+    "require": {}
+}
